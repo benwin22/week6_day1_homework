@@ -1,0 +1,10 @@
+.shop-header {
+    background-image: url("https://tmna.aemassets.toyota.com/is/image/toyota/toyota/vehicles/2024/4runner/gallery/FRN_MY24_0011_V001_mhg2STFQ9ECjmfZm.png?wid=2000&fmt=jpg&fit=crop");
+    background-size: cover;
+    height: 700px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.btn-outline-dark{
+    color: red;
+}
